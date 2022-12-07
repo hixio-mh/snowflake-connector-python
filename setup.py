@@ -175,7 +175,7 @@ setup(
         'boto3>=1.4.4,<1.14',
         'requests<2.24.0',
         'urllib3>=1.20,<1.26.0',
-        'certifi<2021.0.0',
+        'certifi<2023.0.0',
         'pytz<2021.0',
         'pycryptodomex>=3.2,!=3.5.0,<4.0.0',
         'pyOpenSSL>=16.2.0,<21.0.0',
